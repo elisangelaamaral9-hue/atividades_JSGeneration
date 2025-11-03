@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "name": "atividades_praticasjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisangelaamaral9-hue/atividades_JSGeneration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisangelaamaral9-hue/atividades_JSGeneration/issues"
+  },
+  "homepage": "https://github.com/elisangelaamaral9-hue/atividades_JSGeneration#readme",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
   }
 }
